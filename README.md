@@ -11,7 +11,7 @@ And yes, It's okay to spin up 5 of Producer1, etc and 4 of Consumer2 and so on. 
 
 Use [Event Streaming Introduction](https://medium.com/swlh/introduction-to-event-streaming-with-kafka-and-kafdrop-22afdb4b380a) for info on how to get kafka and kafdrop running in a docker container.
 
-Then, write each producer and consumer, and attach them to the docker container.
+Then, write each producer and consumer, and attach them to the DOCKER container.
 
 Be sure to describe in an "Architecture.md" file what your Producers and Consumers do (what data they handle, where they get it from or send it to). Make a decision about which libraries you'll use to create Producers/consumers in either Python or Java or from a SQL script. (or other sources of data).
 
