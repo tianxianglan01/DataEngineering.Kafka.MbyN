@@ -20,3 +20,9 @@ More References
 - [Kafka Intro](https://medium.com/better-programming/an-introduction-to-apache-kafka-95a82260c1c3)
 - [Kafka: Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
 - [Kafka Battles](https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e)
+
+### But Perhaps...
+
+You should think about *how do I create a producer in python, something that __generates__ data, possibly random, in an unlimited fashion?*
+
+A __generator__ in python can create things without building a big memory foot print? rememeber? Feel free to share your ideas on how to do this within the cohort, the main idea of this lab is *Kafka* not *python*, so if some of you come up with cool little data generators, __share them within the cohort__.
